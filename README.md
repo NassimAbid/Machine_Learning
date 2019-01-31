@@ -1,5 +1,5 @@
 # Data Mining and Machine Learning Coursework
-by Antonio Gargaro, Nassim Abid and Dominic Calina
+by Nassim Abid, Dominic Calina and Antonio Gargaro
 
 ### Software Used
 Built with Python 3.7 using the library python-weka-wrapper3. It allows you to use Weka from within Python by using the Javabridge library. This is required for using the Java Virtual Machine in which Weka processes get executed.
